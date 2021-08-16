@@ -1,7 +1,7 @@
 # Hacky Bug C++ Neural Network DLL
 
 ## Introduction
-Hacky Bug was a game my team made for a final project for an artificial intelligence course in 4th year. It is a Flappy Bird clone made in Unity but the 'birds' are instead programming bugs trying to avoid detection by slipping past breakpoints in the code.  
+Hacky Bug was a game my team made for a final project for an artificial intelligence course in 4th year (2019). It is a Flappy Bird clone made in Unity but the 'birds' are instead programming bugs trying to avoid detection by slipping past breakpoints in the code.  
 
 While the game does have player controls, the bugs are actually controlled by artificial neural networks. A genetic evolution algorithm slowly breeds the best bugs from each generation so they learn to fly further and further over time. This logic is written in C++ and integrated with Unity through a DLL.
 
